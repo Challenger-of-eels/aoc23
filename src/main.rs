@@ -6,8 +6,9 @@ mod day3_1;
 mod day3_2;
 mod day4;
 mod day5;
+mod day6;
 mod common;
 
 fn main() {
-    day5::p2("input5.txt");
+    day6::p2("input6.txt");
 }
